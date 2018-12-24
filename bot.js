@@ -34,7 +34,7 @@ client.on('ready', () => {
 });
 
 client.on('ready', () => {
-client.user.setActivity("Power Best.",{type: "Streaming"})
+client.user.setActivity("power by marcos.",{type: "Streaming"})
 });
 
 
